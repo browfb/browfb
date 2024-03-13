@@ -4,7 +4,9 @@
 
 
 
-🚀 ## Minhas Skills
+
+
+🚀## Minhas Skills
 
 **Tecnologias e ferramentas **
 
@@ -16,7 +18,8 @@
 
 
 
-## Onde me encontrar
+
+💼## Onde me encontrar
 
 [![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
 [![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
@@ -24,6 +27,10 @@
 
 
 
+
+
+
+## ⭐ GitHub Stats
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app//api?username=browfb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
