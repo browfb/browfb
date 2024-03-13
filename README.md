@@ -9,9 +9,11 @@
 **Tecnologias e ferramentas **
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+
+
 
 
 ## Onde me encontrar
