@@ -27,8 +27,6 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app//api?username=browfb&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<a href="#" title="LinkedIn">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/augusto-rafayane-089b1124b/" alt="LinkedIn"/></a>
 
 
 
