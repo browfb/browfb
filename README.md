@@ -1,6 +1,6 @@
  Hello,world!! 👋
 
-💻 Sou o Augusto, um profissional apaixonado por ajudar as pessoas a atingirem seus objetivos, seja na academia ou no mundo digital futuramente. Atualmente sou Personal Trainer, mas quero explorar novos horizontes no campo da tecnologia, principalmente em Java Script e Python. Estou mergulhando de cabeça no aprendizado de programação, buscando me tornar um desenvolvedor full stack versátil e capacitado. Minha experiência anterior me ensinou a importância da dedicação, persistência e empatia, valores que pretendo levar comigo nessa nova etapa. Estou animado para enfrentar desafios, aprender continuamente e contribuir um pouco nesse mundo tecnologico.
+💻 Sou o Augusto, um profissional apaixonado por ajudar as pessoas a atingirem seus objetivos, seja na academia ou no mundo digital futuramente. Atualmente sou Personal Trainer, mas quero explorar novos horizontes no campo da tecnologia, principalmente em Java Script e Python. Estou mergulhando de cabeça no aprendizado de programação, buscando me tornar um desenvolvedor full stack versátil e capacitado. Minha experiência anterior me ensinou a importância da dedicação, persistência e esforço, valores que pretendo levar comigo nessa nova etapa. Estou animado para enfrentar desafios, aprender continuamente e contribuir um pouco nesse mundo tecnologico.
 
 
 
